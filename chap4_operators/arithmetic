@@ -1,0 +1,36 @@
+var numOfGirls =20
+var numOfBoys = 15
+
+
+// // addition
+// var result = numOfGirls + numOfBoys;
+// console.log(result);
+
+// // subtraction
+// var result = numOfGirls - numOfBoys;
+// console.log(result);
+
+// // multipplication
+// var result = numOfGirls * numOfBoys;
+// console.log(result);
+
+// // division
+// var result = numOfGirls / numOfBoys;
+// console.log(result);
+
+// // modulos
+// var result = numOfGirls % numOfBoys;
+// console.log(result);
+ 
+// var numOfBaskets = 5;
+// console.log(numOfBaskets);
+// numOfBaskets++
+// console.log(numOfBaskets);
+
+var numOfBaskets = 5;
+console.log(numOfBaskets);
+numOfBaskets--;
+numOfBaskets++;
+console.log(numOfBaskets);
+
+
